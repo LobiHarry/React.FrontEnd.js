@@ -53,7 +53,7 @@ function EmployeeRegistrationForm() {
   const emergencyContactRelationshipRef = useRef(null);
   const bankNameRef = useRef(null);
   const bankBranchRef = useRef(null);
-  const bankAccountNumberRef = useRef(null);
+  // const bankAccountNumberRef = useRef(null);
   const nationalityRef = useRef(null);
   const workPermitCountryRef = useRef(null);
   const otherQualificationRef = useRef(null);
